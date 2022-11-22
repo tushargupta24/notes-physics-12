@@ -1,0 +1,135 @@
+{
+    "physics-12":[
+        {
+        "id":1,
+        "subject":"physics",
+        "image":"physics",
+        "description":"physics - Class-12, Chapter 1: Electric Charges and Fields",
+        "download":"assets/images/notes-12/physics-12/chapter-1.pdf",
+        "view":"assets/images/notes-12/physics-12/chapter-1.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":2,
+        "subject":"physics",
+        "image":"physics",
+        "description":"physics - Class-12, Chapter 3: Current Electricity",
+        "download":"assets/images/notes-12/physics-12/chapter-3.pdf",
+        "view":"assets/images/notes-12/physics-12/chapter-3.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":3,
+        "subject":"physics",
+        "image":"physics",
+        "description":"physics - Class-12, Chapter 4: Moving Charges and Magnetism",
+        "download":"assets/images/notes-12/physics-12/chapter-4.pdf",
+        "view":"assets/images/notes-12/physics-12/chapter-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":4,
+        "subject":"physics",
+        "image":"physics",
+        "description":"physics - Class-12, Chapter 5: Magnetism and Matter",
+        "download":"assets/images/notes-12/physics-12/chapter-5.pdf",
+        "view":"assets/images/notes-12/physics-12/chapter-5.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":5,
+        "subject":"physics",
+        "image":"physics",
+        "description":"physics - Class-12, Chapter 6: Electromagnetic Induction",
+        "download":"assets/images/notes-12/physics-12/chapter-6.pdf",
+        "view":"assets/images/notes-12/physics-12/chapter-6.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":6,
+        "subject":"physics",
+        "image":"physics",
+        "description":"physics - Class-12, Chapter 7: Alternating Current",
+        "download":"assets/images/notes-12/physics-12/chapter-7.pdf",
+        "view":"assets/images/notes-12/physics-12/chapter-7.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":7,
+        "subject":"physics",
+        "image":"physics",
+        "description":"physics - Class-12, Chapter 8: Electromagnetic Waves",
+        "download":"assets/images/notes-12/physics-12/chapter-8.pdf",
+        "view":"assets/images/notes-12/physics-12/chapter-8.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":8,
+        "subject":"physics",
+        "image":"physics",
+        "description":"physics - Class-12, Chapter 9: Ray Optics and Optical Instruments",
+        "download":"assets/images/notes-12/physics-12/chapter-9.pdf",
+        "view":"assets/images/notes-12/physics-12/chapter-9.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":9,
+        "subject":"physics",
+        "image":"physics",
+        "description":"physics - Class-12, Chapter 10: Wave Optics",
+        "download":"assets/images/notes-12/physics-12/chapter-10.pdf",
+        "view":"assets/images/notes-12/physics-12/chapter-10.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":10,
+        "subject":"physics",
+        "image":"physics",
+        "description":"physics - Class-12, Chapter 11: Dual Nature of Radiation and Matter",
+        "download":"assets/images/notes-12/physics-12/chapter-11.pdf",
+        "view":"assets/images/notes-12/physics-12/chapter-11.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":11,
+        "subject":"physics",
+        "image":"physics",
+        "description":"physics - Class-12, Chapter 14: Semiconductor Electronics: Materials, Devices and Simple Circuitsr",
+        "download":"assets/images/notes-12/physics-12/chapter-14.pdf",
+        "view":"assets/images/notes-12/physics-12/chapter-14.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":12,
+        "subject":"physics",
+        "image":"physics",
+        "description":"physics - Class-12, Chapter 15: Communication Systems",
+        "download":"assets/images/notes-12/physics-12/chapter-15.pdf",
+        "view":"assets/images/notes-12/physics-12/chapter-15.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }
+    ]
+}
+      
